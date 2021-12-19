@@ -1,1 +1,1 @@
-# Logika-project_2
+# Logika-2
